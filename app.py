@@ -9,7 +9,7 @@ Original file is located at
 # 🦫 Platypus
 ### Think in Documents.
 
-A premium, production-grade RAG (Retrieval-Augmented Generation) chat application for PDFs.
+A production-grade RAG (Retrieval-Augmented Generation) chat application for PDFs.
 
 ## Install Libraries
 """
